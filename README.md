@@ -1,8 +1,8 @@
-## ![Obey!](dk_icons/Horned-reaper-icon.png) himynameisphillip    
+## Hi my name is Phillip ![Obey!](dk_icons/Horned-reaper-icon.png)   
 
 
 ![](dk_icons/Temple_Icon_Medium.png)
-<img src="dk_icons/Temple_Icon_Medium.png" width="16"> sup dude
+<img src="dk_icons/Temple_Icon_Medium.png" width="20"> sup dude
 ![](dk_icons/Lair_Icon_Medium.png)
 ![](dk_icons/ScavengerRoom_Icon_Medium.png)
 
