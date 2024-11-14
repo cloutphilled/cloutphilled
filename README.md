@@ -1,8 +1,7 @@
-## himynameisphillip    ![Obey!](dk_icons/Horned-reaper-icon.png)
+## ![Obey!](dk_icons/Horned-reaper-icon.png) himynameisphillip    
 
----
 
-![](dk_icons/Temple_Icon_Medium.png)
+![](dk_icons/Temple_Icon_Medium.png) Sup dude
 
 
 
