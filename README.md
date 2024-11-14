@@ -1,4 +1,8 @@
-## himynameisphillip	![Obey!](dk_icons/Temple_Icon_Medium.png)
+## himynameisphillip ![Obey!](dk_icons/Horned-reaper-icon.png.png)
+
+---
+
+![](dk_icons/Temple_Icon_Medium.png)
 
 
 
