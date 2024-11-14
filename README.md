@@ -1,7 +1,7 @@
 ## ![Obey!](dk_icons/Horned-reaper-icon.png) himynameisphillip    
 
 
-![](dk_icons/Temple_Icon_Medium.png = 16x) Sup dude
+![](dk_icons/Temple_Icon_Medium.png =16x) Sup dude
 
 
 
