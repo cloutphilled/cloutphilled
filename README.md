@@ -1,10 +1,9 @@
 ## ![Obey!](dk_icons/Horned-reaper-icon.png) himynameisphillip    
 
 
-![](dk_icons/Temple_Icon_Medium.png)
-![](dk_icons/Lair_Icon_Medium.png)
-![](dk_icons/Torture_Room_Icon_Medium.webp)
-![](dk_icons/ScavengerRoom_Icon_Medium.png)
+- ![](dk_icons/Temple_Icon_Medium.png)
+- ![](dk_icons/Lair_Icon_Medium.png)
+- ![](dk_icons/ScavengerRoom_Icon_Medium.png)
 
 
 
