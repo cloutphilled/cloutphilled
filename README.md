@@ -1,4 +1,4 @@
-## <img src="dk_icons/Horned-reaper-icon.png" width="25" style="float: left; margin-right 10px">  Hi my name is Phillip 
+##  Hi my name is Phillip 
 
 <img src="dk_icons/Temple_Icon_Medium.png" width="25"><br>
 
