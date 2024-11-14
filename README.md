@@ -1,8 +1,8 @@
-## Hi my name is Phillip ![Obey!](dk_icons/Horned-reaper-icon.png)   
+## <img src="dk_icons/Horned-reaper-icon.png" width="25" style="float: left; margin-right 10px">  Hi my name is Phillip 
 
-<img src="dk_icons/Temple_Icon_Medium.png" width="30"> sup dude
+<img src="dk_icons/Temple_Icon_Medium.png" width="25" style="float: left; margin-right 10px;"> sup dude
 
-
+  
 
 
 
