@@ -2,7 +2,7 @@
 
 
 ![](dk_icons/Temple_Icon_Medium.png)
-<img src="dk_icons/Temple_Icon_Medium.png" width="16">
+<img src="dk_icons/Temple_Icon_Medium.png" width="16"> sup dude
 ![](dk_icons/Lair_Icon_Medium.png)
 ![](dk_icons/ScavengerRoom_Icon_Medium.png)
 
