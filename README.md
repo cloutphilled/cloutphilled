@@ -1,10 +1,10 @@
 ##  Hi my name is Phillip 
 
-<img src="dk_icons/Temple_Icon_Medium.png" width="25"><br>
+<img src="dk_icons/Temple_Icon_Medium.png" width="30"><br>
 
-<img src="dk_icons/Library_Icon_Medium.png" width="25"><br>
+<img src="dk_icons/Library_Icon_Medium.png" width="30"><br>
 
-<img src="dk_icons/ScavengerRoom_Icon_Medium.png" width="25"><br>
+<img src="dk_icons/ScavengerRoom_Icon_Medium.png" width="30"><br>
 
   
 
